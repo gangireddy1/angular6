@@ -9,7 +9,7 @@ Google's Angular framework, is a much sought-after skill today. It helps build S
 - May 6 - 10 2019, 2:00 PM - 5:30 PM  
 
 ## Link to join the sessions
-[Zoom Meeting Link to join the sessions]()
+[Zoom Meeting Link to join the sessions]( https://zoom.us/j/821138437)
 
 ## How to start server
 Go to server/ folder and first ```npm install```. Then run either ```npm run noauth``` or ```npm run auth``` (requires access token obtained by hitting /login with username = john.doe@example.com and password = password)
